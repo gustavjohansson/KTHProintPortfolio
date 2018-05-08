@@ -28530,11 +28530,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/s3706098/Projects/Proint/Proint/Proint.csproj",
+      "projectUniqueName": "/Users/s3706098/Desktop/KTHProintPortfolio/Proint/Proint.csproj",
       "projectName": "Proint",
-      "projectPath": "/Users/s3706098/Projects/Proint/Proint/Proint.csproj",
+      "projectPath": "/Users/s3706098/Desktop/KTHProintPortfolio/Proint/Proint.csproj",
       "packagesPath": "/Users/s3706098/.nuget/packages/",
-      "outputPath": "/Users/s3706098/Projects/Proint/Proint/obj",
+      "outputPath": "/Users/s3706098/Desktop/KTHProintPortfolio/Proint/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
